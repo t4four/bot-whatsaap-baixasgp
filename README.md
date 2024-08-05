@@ -1,0 +1,2 @@
+# bot-whatsaap-baixasgp
+AUTOMAÇÃO PARA DAR BAIXA NO SGP VIA WHATSAPP
